@@ -10,10 +10,8 @@
 
 ## 🧑‍💻 About Me
 
-Second-year **IoT and Information Engineering** student at **KMITL**  
-with hands-on experience in computer vision and embedded systems.  
-Built real-time projects using **YOLO, OpenCV, and ESP32**.  
-Interested in applying AI to solving practical problems.
+Second-year **IoT and Information Engineering** student at **KMITL**  with hands-on experience in computer vision and embedded systems.  
+Built real-time projects using **YOLO, OpenCV, and ESP32**.  Interested in applying AI to solving practical problems.
 
 ---
 
