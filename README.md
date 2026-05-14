@@ -52,22 +52,9 @@ Built real-time projects using **YOLO, OpenCV, and ESP32**.  Interested in apply
 
 ---
 
-## 🚀 Projects
-
-| โปรเจค | คำอธิบาย | Tech |
-|---|---|---|
-| 🅿️ [Parking Lot Detection](https://github.com/Raschakorn2549/parking-lot-detection) | Real-time parking detection จาก CCTV ด้วย YOLO11 + Dashboard | Python, Flask, React, YOLO |
-| ♻️ [Smart Trash Sorting](https://github.com/Raschakorn2549/smart-trash) | ถังขยะอัจฉริยะแยกโลหะ/ไม่ใช่โลหะ | ESP32, C++, MQTT |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raschakorn2549&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raschakorn2549&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Raschakorn2549&theme=tokyonight&hide_border=true)
 
