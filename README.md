@@ -1,24 +1,14 @@
-```
-$ fetch
-                    .
-              =+**+*%%#*==#+::::.               new@kmitl
-          -+##@@@@@@@@@@@@@@@@@@@+:.            ---------
-      :=*#@@@@%%%%%%%%%%%%%@%%%%%@@%%=          Name:      Raschakorn Sudchawong
-     -%@@@%%%%%@@%%@%%%@%%@%@@@@@%%@@#-         Degree:    B.Eng. IoT & Info Eng, KMITL
-   -*#%%%%%%%%%%%@@@@@@%@@%@%%%@%%@%%@@#-       Lab:       AIoT Lab, KMITL
- .=#@@@%%%@@@@@@@%%%##%@%%@%@@@@@@@@@%%@#       Intern:    AI/ML Eng @ MyOrder (R&D)
-  :#%%%@@@%*%+-=-.:+-:+=.**:*=+%#%@%@@%%%:      Work:      CV, IoT, geospatial apps
-  :#@%@*+*-:.      -+.        .=:-%%@%%%%:
-   *%@%..=**##*+++*-=---=+**##*=:.%@%@@%-.      Languages: Python, JavaScript, C/C++, SQL
-  .++%#.+==+***#%*-:::-***#***+==.#@%#=*+-      Backend:   FastAPI, Flask, PostgreSQL
-  #+.*%.:++*#***-.     .+*#**+++- #@@=..:#*     Frontend:  React, Tailwind, Leaflet
- :@:.+%--==:::.. ... --..::--: .  +%%=-: =@     Geo:       PostGIS, OSRM
-  =#=-%#:-.    ..  . -#+   .+.-.. :%- .-+#:     AI / CV:   YOLO, OpenCV
-   .--=#* :=-.   .    .  ...===.  *%++++:       IoT:       ESP32, Arduino, MQTT, Node-RED
-       .*#==+. +*+*#***#+..  . .-#+             Tools:     Git, Figma
-         .++-:.:------=== ..-**+=-
-            -=++-.:---===+++=-.                 Awards:    3rd, Startup Challenges 2025
-               .===::::::.
-```
+### Hi there 👋
 
-[Email](mailto:raschakorn2549@gmail.com)
+I'm **New**, an IoT & Information Engineering student at KMITL, based in Bangkok.
+
+I like building things that connect the real world to software: computer vision, IoT devices, and map-based apps.
+Most recently I worked as an AI/ML engineer intern on the R&D team at MyOrder Intelligence, building a location intelligence platform with React, FastAPI and PostGIS.
+
+**A few things about me**
+
+- Member of the AIoT Lab at KMITL
+- 3rd place, The Startup Challenges 2025
+- Usually working in Python, JavaScript and C++
+
+📫 [raschakorn2549@gmail.com](mailto:raschakorn2549@gmail.com)
