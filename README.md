@@ -1,28 +1,25 @@
 ```
 $ fetch
-                ..-++===-+#+-.
-             :#%%%@@@@@@@@@@@%%*:
-          :+#@@@@@%%%%%%%%%%%@@@@%%#.           new@kmitl
-        -*@@@@%%%%@@@@%%%%%%%%%%%@@%#-          ---------
-        %@%%%%%%%%%%%@@@@@@@@@@@%%%@@%-         Study:       IoT & Info Eng @ KMITL
-       =%%@@@@@@@@@@@@%%%%%%%@@@@@@@%@#         Focus:       CV, IoT, AI applications
-      .%%%%%#-::::::............=%%@%%*         Languages:   Python, C++, JavaScript
-       :%%%@#                   :@%@%@-         AI / CV:     YOLO, OpenCV, PyTorch
-        %@%%+:::::::    :::--::..+%%%%          Web:         Flask, React, Tailwind
-       -%%@:=+**%@@%#:  =#%%%#+=: *@@%=         IoT:         ESP32, Arduino, RPi, MQTT
-       =@%%-.=*%#%*=:   .=+%#%##= %%=%#         Learning:    RAG, agents, FastAPI, Docker
-        =@@# :===-.       -=---: =@%**:         Looking for: AI Eng / AI Solution intern
-         -#@=       =%          .%#*-           Hackathon:   KBTG Kampus 2026 (Data Sci)
-           =%-    ..:=. ...    :%+
-            .*#-  -=+#%#==-. -*#-               projects
-              :@%+:   .   -+#%@.                --------
-               *##@#*=-+*#%#*##                 Parking AI:    YOLO11 parking detection
-            :-:#=.##++++-*###%#:..              Water Monitor: ESP32 water-quality node
-        .:=#@@@%-  =#**+*%#%=-%%%%*-:           Smart Bin:     auto metal sorting bin
-   .-=*#%@@@%%%%#*=:-+*####+=+-*%@@@@%#*+-:.
-+*%@@@@@@%%%@@@@%%#*+=----==+*%@%%%%%@@@@@@%
-@@@@%%%%%@@@@@@@@@@%%#*+*#%%@@@%@@@@@%%%%%%@
-%%%%@@@@@@@@@@@@@%%%@@@@@@@@%%%@@@@@@@@@@@@%
+                    .
+              =+**+*%%#*==#+::::.               new@kmitl
+          -+##@@@@@@@@@@@@@@@@@@@+:.            ---------
+      :=*#@@@@%%%%%%%%%%%%%@%%%%%@@%%=          Study:       IoT & Info Eng @ KMITL
+     -%@@@%%%%%@@%%@%%%@%%@%@@@@@%%@@#-         Focus:       CV, IoT, AI applications
+   -*#%%%%%%%%%%%@@@@@@%@@%@%%%@%%@%%@@#-       Languages:   Python, C++, JavaScript
+ .=#@@@%%%@@@@@@@%%%##%@%%@%@@@@@@@@@%%@#       AI / CV:     YOLO, OpenCV, PyTorch
+  :#%%%@@@%*%+-=-.:+-:+=.**:*=+%#%@%@@%%%:      Web:         Flask, React, Tailwind
+  :#@%@*+*-:.      -+.        .=:-%%@%%%%:      IoT:         ESP32, Arduino, RPi, MQTT
+   *%@%..=**##*+++*-=---=+**##*=:.%@%@@%-.      Learning:    RAG, agents, FastAPI, Docker
+  .++%#.+==+***#%*-:::-***#***+==.#@%#=*+-      Looking for: AI Eng / AI Solution intern
+  #+.*%.:++*#***-.     .+*#**+++- #@@=..:#*     Hackathon:   KBTG Kampus 2026 (Data Sci)
+ :@:.+%--==:::.. ... --..::--: .  +%%=-: =@
+  =#=-%#:-.    ..  . -#+   .+.-.. :%- .-+#:     projects
+   .--=#* :=-.   .    .  ...===.  *%++++:       --------
+       .*#==+. +*+*#***#+..  . .-#+             Parking AI:    YOLO11 parking detection
+         .++-:.:------=== ..-**+=-              Water Monitor: ESP32 water-quality node
+            -=++-.:---===+++=-.                 Smart Bin:     auto metal sorting bin
+               .===::::::.
+
 
 ```
 
