@@ -7,10 +7,6 @@ Currently looking for an **AI Engineer / AI Solution internship**.
 
 [Email](mailto:your-email@example.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/your-profile) &nbsp;·&nbsp; [Portfolio](https://raschakorn2549.github.io)
 
-<p align="center">
-  <img src="metrics.overview.svg" alt="GitHub metrics" width="100%">
-</p>
-
 ---
 
 #### 🔧 Selected work
@@ -34,10 +30,6 @@ Currently looking for an **AI Engineer / AI Solution internship**.
 | **Web** | Flask · React · Tailwind |
 | **IoT** | ESP32 · Arduino · Raspberry Pi · MQTT · Node-RED |
 | **Tools** | Git · Linux · Figma |
-
-<p align="center">
-  <img src="metrics.languages.svg" alt="Most used languages" width="100%">
-</p>
 
 🌱 **Currently learning:** LLM apps (RAG, agents) · FastAPI · Docker
 
