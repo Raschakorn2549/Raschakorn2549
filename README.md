@@ -1,28 +1,34 @@
 ```
 $ fetch
-                   .....
-              .--==++++++=-.
-       .-:::-===--==+*****##+-.                   new@kmitl
-       :=-=+==-----==++++*####*-                  ---------
-       -=+=====-==---=++++***###-                 Study:       IoT & Information Engineering @ KMITL
-      :-+=++**=--+#%#+=-=*###**#+                 Focus:       Computer Vision, IoT, AI applications
-      :-=+*##*+=---===::+#*+*##**:                Languages:   Python, C++, JavaScript
-      :=+**#%%#=-:::::-+*%%#**#**-                AI / CV:     YOLO, OpenCV, PyTorch
-  :-::-++*####+:::::=:-+*+*##*##*=                Web:         Flask, React, Tailwind
-     :=***###+=-:..:--++++***#%#*=                IoT:         ESP32, Arduino, Raspberry Pi, MQTT
-     ::-*###*====-=======*%%%@%*-..::-=++.        Learning:    RAG, AI agents, FastAPI, Docker
-  .-*%- :+#*=::.::-=+*##**%%%%*****#%%%%%*:       Looking for: AI Engineer / AI Solution internship
-+#%@@@#   :==----==+++*##%%#*+=+##**#%%%%%%*      Other:       KBTG Kampus Hackathon 2026 (Data Science)
-@@@@@@@+  =#*+++++*****#%%%%#++#%###%%%%%%%#
-@@@@@%%%=*@@@%#+#####**#*+#####%%%%%%%%%%%%#      projects
-@@@@%%##%@@@@@@%###****#*.-=-+%%#%%%%@%%%%%:      --------
-%%%@%%##%@@@@@@@@@%%@@@@@#+: .*%=.:*@@@@%=.       Parking AI:     real-time parking detection with YOLO11
-%%%#%%%%%@%%%#+=+#@@@@@@@@%@%*==:   =+=+:         Water Monitor:  ESP32 water-quality node over MQTT
-@%##*##%%%*..     =%@@@@@@%%@@@%#*-               Smart Bin:      automatic metal / non-metal sorting
-@%#######%%.       :+#%@@@@@@@@@@@@#
-@@%#######%+         .*@@@@@@@@@@@@@+
-@@%%%#####%%.         *@@@@@@@@@@@@@%
-@@@%%%%%%%%@-         #@@@@@@@@@@@@@%:
+                   :=----:-*=:
+              :**##%@@@@@@@@@@#*+.
+            .=#@@@@@%%%%%%%%%@@@@%+=-:
+          :*@@@%%%%%@@@@@@@@@@%%%@@@@*.
+        :+@@%%%@@@@@@@@@@@@@@@@@@%%%%%%.
+        +@%%@@%%%%%%%%%%%%%%%%%%%%@@@@%#:         new@kmitl
+        #%%@@@@@@@@@@@@@@@@@@@@@@@@@@@%@-         ---------
+       =@%@@@%%#######***********#%@@@%%#         Study:       IoT & Information Engineering @ KMITL
+       *%%@%%=                    #%%@%%:         Focus:       Computer Vision, IoT, AI applications
+        #@%%@-                    #@%@%@.         Languages:   Python, C++, JavaScript
+        +@%@#:...         . ..... =%%%@*          AI / CV:     YOLO, OpenCV, PyTorch
+        #@%*-+++*%%#*=   =*%%%#==: -@%@#.         Web:         Flask, React, Tailwind
+       :@%@+ ++##%%%##:  .##%%%#++ .@%%@=         IoT:         ESP32, Arduino, Raspberry Pi, MQTT
+       .%%%% :=####=-     -=####*# =@#:@=         Learning:    RAG, AI agents, FastAPI, Docker
+        :%%@= =+++-        -=--=-  %%##+          Looking for: AI Engineer / AI Solution internship
+         :%@%        =#           =@%#-           Other:       KBTG Kampus Hackathon 2026 (Data Science)
+          .=@=       =#          .@+:
+            =%=    ---------:   -%*               projects
+             :#%=  --+%%%=--. -#%-                --------
+               =@%=        .=#%@=                 Parking AI:     real-time parking detection with YOLO11
+               .%#@%*=:.:+#%#*#%-                 Water Monitor:  ESP32 water-quality node over MQTT
+                %=+%**###+*#**#@.                 Smart Bin:      automatic metal / non-metal sorting
+            :***%. *%+----*##@*%#==:
+        .-+#@@@@#:  -%%#*#%#%=.*%@@@*=:
+    .-+#%@@@%%%%##*=::=+####*+*=-%%%@@@%#+=:.
+:=*#@@@@@%%%@@@@%##**++=+++====*%@%@%%%@@@@@%#
+@@@@@%%%%@@@@@@@@@@%#*+-::-+*#@@@@@@@@@%%%%%@@
+%%%%@@@@@@@@@@@@@%%@@@@@%@@@@@%%@@@@@@@@@@@@%%
+@@@@@@@@@@@@@@@@@@@@%%%@@%%%%%@@@@@@@@@@@@@@@@
 
 ```
 
