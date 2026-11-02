@@ -1,38 +1,22 @@
-## Hi, I'm New 👋
+```
+$ fetch
+                                 new@kmitl
+  +-[ car 0.94 ]-----------+     ---------
+  |                        |     Study:       IoT & Information Engineering @ KMITL
+  |        __________      |     Focus:       Computer Vision, IoT, AI applications
+  |       /  |    |  \     |     Languages:   Python, C++, JavaScript
+  |   ___/___|____|___\__  |     AI / CV:     YOLO, OpenCV, PyTorch
+  |  |  _            _   | |     Web:         Flask, React, Tailwind
+  |  '-(_)----------(_)--' |     IoT:         ESP32, Arduino, Raspberry Pi, MQTT
+  |                        |     Learning:    RAG, AI agents, FastAPI, Docker
+  +------------------------+     Looking for: AI Engineer / AI Solution internship
+                                 Other:       KBTG Kampus Hackathon 2026 (Data Science)
+   > python parking_ai.py
+   > detecting cars...           projects
+                                 --------
+                                 Parking AI:     real-time parking detection with YOLO11
+                                 Water Monitor:  ESP32 water-quality node over MQTT
+                                 Smart Bin:      automatic metal / non-metal sorting
+```
 
-**Raschakorn Sudchawong** · IoT & Information Engineering @ KMITL
-
-I build computer vision and IoT systems end to end, from the model or sensor to the API and the dashboard people use.
-Currently looking for an **AI Engineer / AI Solution internship**.
-
-[Email](mailto:your-email@example.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/your-profile) &nbsp;·&nbsp; [Portfolio](https://raschakorn2549.github.io)
-
----
-
-#### 🔧 Selected work
-
-| Project | What it does | Built with |
-|:--|:--|:--|
-| **[Parking AI](https://github.com/Raschakorn2549/Project1.2-ParkingAI)** | Detects free parking spaces from a live camera stream, shows them on a web dashboard and sends LINE alerts | YOLO11, OpenCV, Flask, React |
-| **[Water Quality Monitor](https://github.com/Raschakorn2549/Project2.1-Fish-Detection)** | Reads temperature, pH and turbidity of fish-tank water and streams it over MQTT | ESP32, C++, MQTT |
-| **[Smart Bin](https://github.com/Raschakorn2549/Project1.1-Smart-Bin)** | Detects incoming trash and sorts metal from non-metal automatically | ESP32, sensors, MQTT |
-
-🏆 **KBTG Kampus Hackathon 2026**, Data Science track
-
----
-
-#### 🧰 Tech stack
-
-| Area | Tools |
-|:--|:--|
-| **Languages** | Python · C++ · JavaScript |
-| **AI / CV** | YOLO · OpenCV · PyTorch |
-| **Web** | Flask · React · Tailwind |
-| **IoT** | ESP32 · Arduino · Raspberry Pi · MQTT · Node-RED |
-| **Tools** | Git · Linux · Figma |
-
-🌱 **Currently learning:** LLM apps (RAG, agents) · FastAPI · Docker
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Raschakorn2549.Raschakorn2549" alt="Visitors">
-</p>
+[Email](mailto:your-email@example.com) · [LinkedIn](https://www.linkedin.com/in/your-profile) · [Parking AI](https://github.com/Raschakorn2549/Project1.2-ParkingAI) · [Water Monitor](https://github.com/Raschakorn2549/Project2.1-Fish-Detection) · [Smart Bin](https://github.com/Raschakorn2549/Project1.1-Smart-Bin)
