@@ -2,8 +2,8 @@
 
 I'm **New**, an IoT & Information Engineering student at KMITL, based in Bangkok.
 
-I like building things that connect the real world to software: computer vision, IoT devices, and map-based apps.
-Most recently I worked as an AI/ML engineer intern on the R&D team at MyOrder Intelligence, building a location intelligence platform with React, FastAPI and PostGIS.
+These days I'm mostly into agentic AI and the plumbing around it: how agents use tools, and how retrieval with embeddings and vector databases gives a model the right context.
+Before that I interned on the R&D team at MyOrder Intelligence, building a location intelligence platform.
 
 **A few things about me**
 
