@@ -3,24 +3,22 @@ $ fetch
                     .
               =+**+*%%#*==#+::::.               new@kmitl
           -+##@@@@@@@@@@@@@@@@@@@+:.            ---------
-      :=*#@@@@%%%%%%%%%%%%%@%%%%%@@%%=          Study:       IoT & Info Eng @ KMITL
-     -%@@@%%%%%@@%%@%%%@%%@%@@@@@%%@@#-         Focus:       CV, IoT, AI applications
-   -*#%%%%%%%%%%%@@@@@@%@@%@%%%@%%@%%@@#-       Languages:   Python, C++, JavaScript
- .=#@@@%%%@@@@@@@%%%##%@%%@%@@@@@@@@@%%@#       AI / CV:     YOLO, OpenCV, PyTorch
-  :#%%%@@@%*%+-=-.:+-:+=.**:*=+%#%@%@@%%%:      Web:         Flask, React, Tailwind
-  :#@%@*+*-:.      -+.        .=:-%%@%%%%:      IoT:         ESP32, Arduino, RPi, MQTT
-   *%@%..=**##*+++*-=---=+**##*=:.%@%@@%-.      Learning:    RAG, agents, FastAPI, Docker
-  .++%#.+==+***#%*-:::-***#***+==.#@%#=*+-      Looking for: AI Eng / AI Solution intern
-  #+.*%.:++*#***-.     .+*#**+++- #@@=..:#*     Hackathon:   KBTG Kampus 2026 (Data Sci)
- :@:.+%--==:::.. ... --..::--: .  +%%=-: =@
-  =#=-%#:-.    ..  . -#+   .+.-.. :%- .-+#:     projects
-   .--=#* :=-.   .    .  ...===.  *%++++:       --------
-       .*#==+. +*+*#***#+..  . .-#+             Parking AI:    YOLO11 parking detection
-         .++-:.:------=== ..-**+=-              Water Monitor: ESP32 water-quality node
-            -=++-.:---===+++=-.                 Smart Bin:     auto metal sorting bin
+      :=*#@@@@%%%%%%%%%%%%%@%%%%%@@%%=          Name:      Raschakorn Sudchawong
+     -%@@@%%%%%@@%%@%%%@%%@%@@@@@%%@@#-         Degree:    B.Eng. IoT & Info Eng, KMITL
+   -*#%%%%%%%%%%%@@@@@@%@@%@%%%@%%@%%@@#-       Lab:       AIoT Lab, KMITL
+ .=#@@@%%%@@@@@@@%%%##%@%%@%@@@@@@@@@%%@#       Intern:    AI/ML Eng @ MyOrder (R&D)
+  :#%%%@@@%*%+-=-.:+-:+=.**:*=+%#%@%@@%%%:      Work:      CV, IoT, geospatial apps
+  :#@%@*+*-:.      -+.        .=:-%%@%%%%:
+   *%@%..=**##*+++*-=---=+**##*=:.%@%@@%-.      Languages: Python, JavaScript, C/C++, SQL
+  .++%#.+==+***#%*-:::-***#***+==.#@%#=*+-      Backend:   FastAPI, Flask, PostgreSQL
+  #+.*%.:++*#***-.     .+*#**+++- #@@=..:#*     Frontend:  React, Tailwind, Leaflet
+ :@:.+%--==:::.. ... --..::--: .  +%%=-: =@     Geo:       PostGIS, OSRM
+  =#=-%#:-.    ..  . -#+   .+.-.. :%- .-+#:     AI / CV:   YOLO, OpenCV
+   .--=#* :=-.   .    .  ...===.  *%++++:       IoT:       ESP32, Arduino, MQTT, Node-RED
+       .*#==+. +*+*#***#+..  . .-#+             Tools:     Git, Figma
+         .++-:.:------=== ..-**+=-
+            -=++-.:---===+++=-.                 Awards:    3rd, Startup Challenges 2025
                .===::::::.
-
-
 ```
 
-[Email](mailto:your-email@example.com) · [LinkedIn](https://www.linkedin.com/in/your-profile) · [Parking AI](https://github.com/Raschakorn2549/Project1.2-ParkingAI) · [Water Monitor](https://github.com/Raschakorn2549/Project2.1-Fish-Detection) · [Smart Bin](https://github.com/Raschakorn2549/Project1.1-Smart-Bin)
+[Email](mailto:raschakorn2549@gmail.com)
