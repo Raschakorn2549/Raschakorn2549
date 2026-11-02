@@ -1,64 +1,28 @@
-<div align="center">
+Raschakorn Sudchawong (New)
 
-# 👋 Hi, I'm New (Raschakorn Sudchawong)
+IoT & Information Engineering student at KMITL. I build computer vision and IoT systems end to end, from the model or sensor to the API and the dashboard people use.
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=IoT+%26+Information+Engineering+Student;Computer+Vision+%7C+Embedded+Systems;Building+real-world+AI+solutions)
+Looking for an AI Engineer / AI Solution internship.
 
-</div>
+Email · LinkedIn · Portfolio
 
----
+<br>
 
-## 🧑‍💻 About Me
+Selected work
 
-Second-year **IoT and Information Engineering** student at **KMITL**  with hands-on experience in computer vision and embedded systems.  
-Built real-time projects using **YOLO, OpenCV, and ESP32**.  Interested in applying AI to solving practical problems.
+Parking AI: real-time parking-space detection from a live camera stream. YOLO11 runs in a Flask backend, results go to a React dashboard, and LINE alerts are sent when occupancy changes.
+Water Quality Monitor: an ESP32 node that reads temperature, pH and turbidity in fish-tank water and publishes them over MQTT.
+Smart Bin: a bin that detects incoming trash, sorts metal from non-metal with a servo, and reports counts over MQTT.
+KBTG Kampus Hackathon 2026, Data Science track.
+<br>
 
----
+Tools I work with
 
-## 🛠️ Tech Stack
+Python, C++, JavaScript<br> YOLO, OpenCV, PyTorch<br> Flask, React, Tailwind<br> ESP32, Arduino, Raspberry Pi, MQTT, Node-RED<br> Git, Linux, Figma
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<br>
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend**  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-**AI / CV**  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO11-00FFAA?style=for-the-badge&logoColor=black)
-
-**Embedded**  
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
-![LINE API](https://img.shields.io/badge/LINE_API-00C300?style=for-the-badge&logo=line&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Raschakorn2549&theme=tokyonight&hide_border=true)
-
-</div>
+Currently learning: LLM applications (RAG, agents), FastAPI, Docker
 
 ---
 
